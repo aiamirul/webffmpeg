@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Compress",
+  "description": "High-performance client-side video compression using FFmpeg WebAssembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
